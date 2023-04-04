@@ -1,0 +1,6 @@
+# flyctl launch added from node_modules/.pnpm/robots-parser@3.0.1/node_modules/robots-parser/.gitignore
+node_modules/.pnpm/robots-parser@3.0.1/node_modules/robots-parser/**/node_modules
+node_modules/.pnpm/robots-parser@3.0.1/node_modules/robots-parser/**/coverage
+node_modules/.pnpm/robots-parser@3.0.1/node_modules/robots-parser/**/.nyc_output
+node_modules/.pnpm/robots-parser@3.0.1/node_modules/robots-parser/**/.vscode
+fly.toml
